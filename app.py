@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+pip install opencv-python
 import streamlit as st 
 import csv
 import copy
